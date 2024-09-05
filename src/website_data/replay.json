@@ -1,0 +1,1489 @@
+{
+    "data": [
+        {
+            "type": "browser",
+            "timestamp": 4.658999919891357,
+            "state": {
+                "screenshot": null,
+                "page": null
+            },
+            "action": {
+                "intent": "load",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 0,
+                        "mouseY": 0,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927214257,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "documentId": "5888EE3028A270B1291A7FF831A71A86",
+                        "documentLifecycle": "active",
+                        "frameId": 0,
+                        "frameType": "outermost_frame",
+                        "parentFrameId": -1,
+                        "processId": 214,
+                        "tabId": 1936197534,
+                        "timeStamp": 1724927214168.857,
+                        "transitionQualifiers": [
+                            "from_address_bar"
+                        ],
+                        "transitionType": "typed",
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform"
+                    }
+                },
+                "event_id": 2,
+                "element_html": null,
+                "screenshot_effect": null
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 6.48799991607666,
+            "state": {
+                "screenshot": "screenshot-3-0.png",
+                "page": "page-3-0.html"
+            },
+            "action": {
+                "intent": "scroll",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 1392,
+                        "mouseY": 450,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927216086,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "altKey": false,
+                        "button": 0,
+                        "buttons": 0,
+                        "clientX": 1358,
+                        "clientY": 414,
+                        "composed": true,
+                        "ctrlKey": false,
+                        "detail": 0,
+                        "eventPhase": 0,
+                        "layerX": 1358,
+                        "layerY": 414,
+                        "metaKey": false,
+                        "movementX": 0,
+                        "movementY": 0,
+                        "offsetX": 1358,
+                        "offsetY": 514,
+                        "pageX": 1358,
+                        "pageY": 414,
+                        "returnValue": true,
+                        "screenX": 1360,
+                        "screenY": 419,
+                        "shiftKey": false,
+                        "timeStamp": 2053,
+                        "x": 1358,
+                        "y": 414
+                    },
+                    "scrollX": 0,
+                    "scrollY": 100
+                },
+                "event_id": 3,
+                "element_html": null,
+                "screenshot_effect": "screenshot-3-1.png"
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 8.664000034332275,
+            "state": {
+                "screenshot": "screenshot-4-0.png",
+                "page": "page-4-0.html"
+            },
+            "action": {
+                "intent": "click",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 813,
+                        "mouseY": 568,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927218262,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "altKey": false,
+                        "button": 0,
+                        "buttons": 1,
+                        "clientX": 813,
+                        "clientY": 568,
+                        "composed": true,
+                        "ctrlKey": false,
+                        "detail": 1,
+                        "eventPhase": 0,
+                        "layerX": 813,
+                        "layerY": 668,
+                        "metaKey": false,
+                        "movementX": 0,
+                        "movementY": 0,
+                        "offsetX": 145,
+                        "offsetY": 8,
+                        "pageX": 813,
+                        "pageY": 668,
+                        "returnValue": true,
+                        "screenX": 815,
+                        "screenY": 573,
+                        "shiftKey": false,
+                        "timeStamp": 4750,
+                        "x": 813,
+                        "y": 568
+                    },
+                    "element": {
+                        "attributes": {
+                            "class": "aDTYNe snByac OvPDhc OIC90c",
+                            "data-webtasks-id": "95409b2f-efb4-43b7",
+                            "dir": "auto"
+                        },
+                        "bbox": {
+                            "bottom": 580.1875,
+                            "height": 20,
+                            "left": 668,
+                            "right": 836.109375,
+                            "top": 560.1875,
+                            "width": 168.109375,
+                            "x": 668,
+                            "y": 560.1875
+                        },
+                        "innerHTML": "I am an existing customer",
+                        "outerHTML": "<span dir=\"auto\" class=\"aDTYNe snByac OvPDhc OIC90c\" data-webtasks-id=\"95409b2f-efb4-43b7\">I am an existing customer</span>",
+                        "tagName": "SPAN",
+                        "textContent": "I am an existing customer",
+                        "xpath": "id(\"mG61Hd\")/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/span[1]/div[1]/div[2]/label[1]/div[1]/div[2]/div[1]/span[1]"
+                    }
+                },
+                "event_id": 4,
+                "element_html": "<span class=\"aDTYNe snByac OvPDhc OIC90c\" data-webtasks-id=\"95409b2f-efb4-43b7\" dir=\"auto\">I am an existing customer</span>",
+                "screenshot_effect": null
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 10.057999849319458,
+            "state": {
+                "screenshot": "screenshot-5-0.png",
+                "page": "page-5-0.html"
+            },
+            "action": {
+                "intent": "scroll",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 1039,
+                        "mouseY": 595,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927219656,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "altKey": false,
+                        "button": 0,
+                        "buttons": 0,
+                        "clientX": 1002,
+                        "clientY": 621,
+                        "composed": true,
+                        "ctrlKey": false,
+                        "detail": 0,
+                        "eventPhase": 0,
+                        "layerX": 1002,
+                        "layerY": 769,
+                        "metaKey": false,
+                        "movementX": 0,
+                        "movementY": 0,
+                        "offsetX": 391,
+                        "offsetY": 376,
+                        "pageX": 1002,
+                        "pageY": 769,
+                        "returnValue": true,
+                        "screenX": 1004,
+                        "screenY": 626,
+                        "shiftKey": false,
+                        "timeStamp": 5641,
+                        "x": 1002,
+                        "y": 621
+                    },
+                    "scrollX": 0,
+                    "scrollY": 200
+                },
+                "event_id": 5,
+                "element_html": null,
+                "screenshot_effect": "screenshot-5-1.png"
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 12.227999925613403,
+            "state": {
+                "screenshot": "screenshot-6-0.png",
+                "page": "page-6-0.html"
+            },
+            "action": {
+                "intent": "click",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 652,
+                        "mouseY": 512,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927221826,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "altKey": false,
+                        "button": 0,
+                        "buttons": 1,
+                        "clientX": 652,
+                        "clientY": 512,
+                        "composed": true,
+                        "ctrlKey": false,
+                        "detail": 1,
+                        "eventPhase": 0,
+                        "layerX": 14,
+                        "layerY": 9,
+                        "metaKey": false,
+                        "movementX": 0,
+                        "movementY": 0,
+                        "offsetX": 6,
+                        "offsetY": 2,
+                        "pageX": 652,
+                        "pageY": 812,
+                        "returnValue": false,
+                        "screenX": 654,
+                        "screenY": 517,
+                        "shiftKey": false,
+                        "timeStamp": 8311,
+                        "x": 652,
+                        "y": 512
+                    },
+                    "element": {
+                        "attributes": {
+                            "class": "uHMk6b fsHoPb",
+                            "data-webtasks-id": "ced121f1-e32e-47ce"
+                        },
+                        "bbox": {
+                            "bottom": 518.1875,
+                            "height": 16,
+                            "left": 638,
+                            "right": 654,
+                            "top": 502.1875,
+                            "width": 16,
+                            "x": 638,
+                            "y": 502.1875
+                        },
+                        "innerHTML": "",
+                        "outerHTML": "<div class=\"uHMk6b fsHoPb\" data-webtasks-id=\"ced121f1-e32e-47ce\"></div>",
+                        "tagName": "DIV",
+                        "textContent": "",
+                        "xpath": "id(\"i16\")/div[2]"
+                    }
+                },
+                "event_id": 6,
+                "element_html": "<div class=\"uHMk6b fsHoPb\" data-webtasks-id=\"ced121f1-e32e-47ce\"></div>",
+                "screenshot_effect": null
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 12.990999937057495,
+            "state": {
+                "screenshot": "screenshot-7-0.png",
+                "page": "page-7-0.html"
+            },
+            "action": {
+                "intent": "click",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 653,
+                        "mouseY": 584,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927222589,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "altKey": false,
+                        "button": 0,
+                        "buttons": 1,
+                        "clientX": 653,
+                        "clientY": 584,
+                        "composed": true,
+                        "ctrlKey": false,
+                        "detail": 1,
+                        "eventPhase": 0,
+                        "layerX": 15,
+                        "layerY": 9,
+                        "metaKey": false,
+                        "movementX": 0,
+                        "movementY": 0,
+                        "offsetX": 7,
+                        "offsetY": 2,
+                        "pageX": 653,
+                        "pageY": 884,
+                        "returnValue": false,
+                        "screenX": 655,
+                        "screenY": 589,
+                        "shiftKey": false,
+                        "timeStamp": 9071,
+                        "x": 653,
+                        "y": 584
+                    },
+                    "element": {
+                        "attributes": {
+                            "class": "uHMk6b fsHoPb",
+                            "data-webtasks-id": "5d3c72b3-c4b4-41cb"
+                        },
+                        "bbox": {
+                            "bottom": 590.1875,
+                            "height": 16,
+                            "left": 638,
+                            "right": 654,
+                            "top": 574.1875,
+                            "width": 16,
+                            "x": 638,
+                            "y": 574.1875
+                        },
+                        "innerHTML": "",
+                        "outerHTML": "<div class=\"uHMk6b fsHoPb\" data-webtasks-id=\"5d3c72b3-c4b4-41cb\"></div>",
+                        "tagName": "DIV",
+                        "textContent": "",
+                        "xpath": "id(\"i22\")/div[2]"
+                    }
+                },
+                "event_id": 7,
+                "element_html": "<div class=\"uHMk6b fsHoPb\" data-webtasks-id=\"5d3c72b3-c4b4-41cb\"></div>",
+                "screenshot_effect": null
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 14.210000038146973,
+            "state": {
+                "screenshot": "screenshot-8-0.png",
+                "page": "page-8-0.html"
+            },
+            "action": {
+                "intent": "scroll",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 1158,
+                        "mouseY": 673,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927223808,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "altKey": false,
+                        "button": 0,
+                        "buttons": 0,
+                        "clientX": 969,
+                        "clientY": 734,
+                        "composed": true,
+                        "ctrlKey": false,
+                        "detail": 0,
+                        "eventPhase": 0,
+                        "layerX": 969,
+                        "layerY": 1043,
+                        "metaKey": false,
+                        "movementX": 0,
+                        "movementY": 0,
+                        "offsetX": 357,
+                        "offsetY": 260,
+                        "pageX": 969,
+                        "pageY": 1043,
+                        "returnValue": true,
+                        "screenX": 971,
+                        "screenY": 739,
+                        "shiftKey": false,
+                        "timeStamp": 9797,
+                        "x": 969,
+                        "y": 734
+                    },
+                    "scrollX": 0,
+                    "scrollY": 200
+                },
+                "event_id": 8,
+                "element_html": null,
+                "screenshot_effect": "screenshot-8-1.png"
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 15.842999935150146,
+            "state": {
+                "screenshot": "screenshot-9-0.png",
+                "page": "page-9-0.html"
+            },
+            "action": {
+                "intent": "click",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 636,
+                        "mouseY": 593,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927225441,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "altKey": false,
+                        "button": 0,
+                        "buttons": 1,
+                        "clientX": 636,
+                        "clientY": 593,
+                        "composed": true,
+                        "ctrlKey": false,
+                        "detail": 1,
+                        "eventPhase": 0,
+                        "layerX": -2,
+                        "layerY": 8,
+                        "metaKey": false,
+                        "movementX": 0,
+                        "movementY": 0,
+                        "offsetX": -10,
+                        "offsetY": 1,
+                        "pageX": 636,
+                        "pageY": 1093,
+                        "returnValue": false,
+                        "screenX": 638,
+                        "screenY": 598,
+                        "shiftKey": false,
+                        "timeStamp": 11925,
+                        "x": 636,
+                        "y": 593
+                    },
+                    "element": {
+                        "attributes": {
+                            "class": "uHMk6b fsHoPb",
+                            "data-webtasks-id": "6bad8b81-fbdb-4a56"
+                        },
+                        "bbox": {
+                            "bottom": 600.1875,
+                            "height": 16,
+                            "left": 638,
+                            "right": 654,
+                            "top": 584.1875,
+                            "width": 16,
+                            "x": 638,
+                            "y": 584.1875
+                        },
+                        "innerHTML": "",
+                        "outerHTML": "<div class=\"uHMk6b fsHoPb\" data-webtasks-id=\"6bad8b81-fbdb-4a56\"></div>",
+                        "tagName": "DIV",
+                        "textContent": "",
+                        "xpath": "id(\"i36\")/div[2]"
+                    }
+                },
+                "event_id": 9,
+                "element_html": "<div class=\"uHMk6b fsHoPb\" data-webtasks-id=\"6bad8b81-fbdb-4a56\"></div>",
+                "screenshot_effect": null
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 16.509999990463257,
+            "state": {
+                "screenshot": "screenshot-10-0.png",
+                "page": "page-10-0.html"
+            },
+            "action": {
+                "intent": "click",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 642,
+                        "mouseY": 550,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927226108,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "altKey": false,
+                        "button": 0,
+                        "buttons": 1,
+                        "clientX": 642,
+                        "clientY": 550,
+                        "composed": true,
+                        "ctrlKey": false,
+                        "detail": 1,
+                        "eventPhase": 0,
+                        "layerX": 4,
+                        "layerY": 1,
+                        "metaKey": false,
+                        "movementX": 0,
+                        "movementY": 0,
+                        "offsetX": -4,
+                        "offsetY": -6,
+                        "pageX": 642,
+                        "pageY": 1050,
+                        "returnValue": false,
+                        "screenX": 644,
+                        "screenY": 555,
+                        "shiftKey": false,
+                        "timeStamp": 12594,
+                        "x": 642,
+                        "y": 550
+                    },
+                    "element": {
+                        "attributes": {
+                            "class": "uHMk6b fsHoPb",
+                            "data-webtasks-id": "7d7e5cd4-7264-44c1"
+                        },
+                        "bbox": {
+                            "bottom": 564.1875,
+                            "height": 16,
+                            "left": 638,
+                            "right": 654,
+                            "top": 548.1875,
+                            "width": 16,
+                            "x": 638,
+                            "y": 548.1875
+                        },
+                        "innerHTML": "",
+                        "outerHTML": "<div class=\"uHMk6b fsHoPb\" data-webtasks-id=\"7d7e5cd4-7264-44c1\"></div>",
+                        "tagName": "DIV",
+                        "textContent": "",
+                        "xpath": "id(\"i33\")/div[2]"
+                    }
+                },
+                "event_id": 10,
+                "element_html": "<div class=\"uHMk6b fsHoPb\" data-webtasks-id=\"7d7e5cd4-7264-44c1\"></div>",
+                "screenshot_effect": null
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 17.61299991607666,
+            "state": {
+                "screenshot": "screenshot-11-0.png",
+                "page": "page-11-0.html"
+            },
+            "action": {
+                "intent": "scroll",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 1091,
+                        "mouseY": 648,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927227211,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "altKey": false,
+                        "button": 0,
+                        "buttons": 0,
+                        "clientX": 1574,
+                        "clientY": 739,
+                        "composed": true,
+                        "ctrlKey": false,
+                        "detail": 0,
+                        "eventPhase": 0,
+                        "layerX": 1574,
+                        "layerY": 1255,
+                        "metaKey": false,
+                        "movementX": 0,
+                        "movementY": 0,
+                        "offsetX": 1574,
+                        "offsetY": 1439,
+                        "pageX": 1574,
+                        "pageY": 1255,
+                        "returnValue": true,
+                        "screenX": 1576,
+                        "screenY": 744,
+                        "shiftKey": false,
+                        "timeStamp": 13195,
+                        "x": 1574,
+                        "y": 739
+                    },
+                    "scrollX": 0,
+                    "scrollY": 200
+                },
+                "event_id": 11,
+                "element_html": null,
+                "screenshot_effect": "screenshot-11-1.png"
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 18.47499990463257,
+            "state": {
+                "screenshot": "screenshot-12-0.png",
+                "page": "page-12-0.html"
+            },
+            "action": {
+                "intent": "click",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 1011,
+                        "mouseY": 607,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927228073,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "altKey": false,
+                        "button": 0,
+                        "buttons": 1,
+                        "clientX": 1011,
+                        "clientY": 607,
+                        "composed": true,
+                        "ctrlKey": false,
+                        "detail": 1,
+                        "eventPhase": 0,
+                        "layerX": 2,
+                        "layerY": 2,
+                        "metaKey": false,
+                        "movementX": 0,
+                        "movementY": 0,
+                        "offsetX": 1,
+                        "offsetY": 1,
+                        "pageX": 1011,
+                        "pageY": 1307,
+                        "returnValue": false,
+                        "screenX": 1013,
+                        "screenY": 612,
+                        "shiftKey": false,
+                        "timeStamp": 14556,
+                        "x": 1011,
+                        "y": 607
+                    },
+                    "element": {
+                        "attributes": {
+                            "class": "AB7Lab Id5V1",
+                            "data-webtasks-id": "1793262f-e987-4be4"
+                        },
+                        "bbox": {
+                            "bottom": 624.1875,
+                            "height": 20,
+                            "left": 1008.125,
+                            "right": 1028.125,
+                            "top": 604.1875,
+                            "width": 20,
+                            "x": 1008.125,
+                            "y": 604.1875
+                        },
+                        "innerHTML": "<div class=\"rseUEf nQOrEb\" data-webtasks-id=\"a7c5c1eb-e257-4948\"></div>",
+                        "outerHTML": "<div class=\"AB7Lab Id5V1\" data-webtasks-id=\"1793262f-e987-4be4\"><div class=\"rseUEf nQOrEb\" data-webtasks-id=\"a7c5c1eb-e257-4948\"></div></div>",
+                        "tagName": "DIV",
+                        "textContent": "",
+                        "xpath": "id(\"mG61Hd\")/div[2]/div[1]/div[2]/div[4]/div[1]/div[1]/div[2]/div[1]/span[1]/div[1]/label[4]/div[2]/div[1]/div[1]/div[3]/div[1]"
+                    }
+                },
+                "event_id": 12,
+                "element_html": "<div class=\"AB7Lab Id5V1\" data-webtasks-id=\"1793262f-e987-4be4\"><div class=\"rseUEf nQOrEb\" data-webtasks-id=\"a7c5c1eb-e257-4948\"></div></div>",
+                "screenshot_effect": null
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 19.99399995803833,
+            "state": {
+                "screenshot": "screenshot-13-0.png",
+                "page": "page-13-0.html"
+            },
+            "action": {
+                "intent": "scroll",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 679,
+                        "mouseY": 449,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927229592,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "altKey": false,
+                        "button": 0,
+                        "buttons": 0,
+                        "clientX": 1181,
+                        "clientY": 766,
+                        "composed": true,
+                        "ctrlKey": false,
+                        "detail": 0,
+                        "eventPhase": 0,
+                        "layerX": 1181,
+                        "layerY": 1672,
+                        "metaKey": false,
+                        "movementX": 0,
+                        "movementY": 0,
+                        "offsetX": 569,
+                        "offsetY": 398,
+                        "pageX": 1181,
+                        "pageY": 1672,
+                        "returnValue": true,
+                        "screenX": 1183,
+                        "screenY": 771,
+                        "shiftKey": false,
+                        "timeStamp": 15568,
+                        "x": 1181,
+                        "y": 766
+                    },
+                    "scrollX": 0,
+                    "scrollY": 400
+                },
+                "event_id": 13,
+                "element_html": null,
+                "screenshot_effect": "screenshot-13-1.png"
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 20.205999851226807,
+            "state": {
+                "screenshot": "screenshot-14-0.png",
+                "page": "page-14-0.html"
+            },
+            "action": {
+                "intent": "click",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 679,
+                        "mouseY": 449,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927229804,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "altKey": false,
+                        "button": 0,
+                        "buttons": 1,
+                        "clientX": 679,
+                        "clientY": 449,
+                        "composed": true,
+                        "ctrlKey": false,
+                        "detail": 1,
+                        "eventPhase": 0,
+                        "layerX": 43,
+                        "layerY": 2,
+                        "metaKey": false,
+                        "movementX": 0,
+                        "movementY": 0,
+                        "offsetX": 43,
+                        "offsetY": 3,
+                        "pageX": 679,
+                        "pageY": 1549,
+                        "returnValue": true,
+                        "screenX": 681,
+                        "screenY": 454,
+                        "shiftKey": false,
+                        "timeStamp": 16288,
+                        "x": 679,
+                        "y": 449
+                    },
+                    "element": {
+                        "attributes": {
+                            "aria-describedby": "i47 i48",
+                            "aria-disabled": "false",
+                            "aria-labelledby": "i46",
+                            "autocomplete": "off",
+                            "class": "whsOnd zHQkBf",
+                            "data-initial-dir": "auto",
+                            "data-initial-value": "",
+                            "data-webtasks-id": "33fbd3e2-08a3-4631",
+                            "dir": "auto",
+                            "jsname": "YPqjbf",
+                            "required": "",
+                            "tabindex": "0",
+                            "type": "text"
+                        },
+                        "bbox": {
+                            "bottom": 470.1875,
+                            "height": 24,
+                            "left": 636,
+                            "right": 931,
+                            "top": 446.1875,
+                            "width": 295,
+                            "x": 636,
+                            "y": 446.1875
+                        },
+                        "innerHTML": "",
+                        "outerHTML": "<input type=\"text\" class=\"whsOnd zHQkBf\" jsname=\"YPqjbf\" autocomplete=\"off\" tabindex=\"0\" aria-labelledby=\"i46\" aria-describedby=\"i47 i48\" aria-disabled=\"false\" required=\"\" dir=\"auto\" data-initial-dir=\"auto\" data-initial-value=\"\" data-webtasks-id=\"33fbd3e2-08a3-4631\">",
+                        "tagName": "INPUT",
+                        "textContent": "",
+                        "xpath": "id(\"mG61Hd\")/div[2]/div[1]/div[2]/div[6]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/input[1]"
+                    }
+                },
+                "event_id": 14,
+                "element_html": "<input aria-describedby=\"i47 i48\" aria-disabled=\"false\" aria-labelledby=\"i46\" autocomplete=\"off\" class=\"whsOnd zHQkBf\" data-initial-dir=\"auto\" data-initial-value=\"\" data-webtasks-id=\"33fbd3e2-08a3-4631\" dir=\"auto\" jsname=\"YPqjbf\" required=\"\" tabindex=\"0\" type=\"text\"/>",
+                "screenshot_effect": null
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 23.378000020980835,
+            "state": {
+                "screenshot": "screenshot-15-0.png",
+                "page": "page-15-0.html"
+            },
+            "action": {
+                "intent": "textInput",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 695,
+                        "mouseY": 603,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927232976,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "composed": true,
+                        "detail": 0,
+                        "eventPhase": 2,
+                        "returnValue": true,
+                        "timeStamp": 19467
+                    },
+                    "element": {
+                        "attributes": {
+                            "aria-describedby": "i47 i48",
+                            "aria-disabled": "false",
+                            "aria-labelledby": "i46",
+                            "autocomplete": "off",
+                            "badinput": "false",
+                            "class": "whsOnd zHQkBf",
+                            "data-event-id": "15",
+                            "data-initial-dir": "auto",
+                            "data-initial-value": "Kavan",
+                            "data-webtasks-id": "33fbd3e2-08a3-4631",
+                            "dir": "auto",
+                            "jsname": "YPqjbf",
+                            "listener": "true",
+                            "required": "",
+                            "tabindex": "0",
+                            "type": "text"
+                        },
+                        "bbox": {
+                            "bottom": 470.1875,
+                            "height": 24,
+                            "left": 636,
+                            "right": 931,
+                            "top": 446.1875,
+                            "width": 295,
+                            "x": 636,
+                            "y": 446.1875
+                        },
+                        "innerHTML": "",
+                        "outerHTML": "<input type=\"text\" class=\"whsOnd zHQkBf\" jsname=\"YPqjbf\" autocomplete=\"off\" tabindex=\"0\" aria-labelledby=\"i46\" aria-describedby=\"i47 i48\" aria-disabled=\"false\" required=\"\" dir=\"auto\" data-initial-dir=\"auto\" data-initial-value=\"Kavan\" data-webtasks-id=\"33fbd3e2-08a3-4631\" data-event-id=\"15\" listener=\"true\" badinput=\"false\">",
+                        "tagName": "INPUT",
+                        "textContent": "",
+                        "xpath": "id(\"mG61Hd\")/div[2]/div[1]/div[2]/div[6]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/input[1]"
+                    },
+                    "text": "Kavan"
+                },
+                "event_id": 15,
+                "element_html": "<input aria-describedby=\"i47 i48\" aria-disabled=\"false\" aria-labelledby=\"i46\" autocomplete=\"off\" class=\"whsOnd zHQkBf\" data-initial-dir=\"auto\" data-initial-value=\"\" data-webtasks-id=\"33fbd3e2-08a3-4631\" dir=\"auto\" jsname=\"YPqjbf\" required=\"\" tabindex=\"0\" type=\"text\"/>",
+                "screenshot_effect": null
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 23.382999897003174,
+            "state": {
+                "screenshot": "screenshot-16-0.png",
+                "page": "page-16-0.html"
+            },
+            "action": {
+                "intent": "click",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 695,
+                        "mouseY": 603,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927232981,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "altKey": false,
+                        "button": 0,
+                        "buttons": 1,
+                        "clientX": 695,
+                        "clientY": 603,
+                        "composed": true,
+                        "ctrlKey": false,
+                        "detail": 1,
+                        "eventPhase": 0,
+                        "layerX": 59,
+                        "layerY": 6,
+                        "metaKey": false,
+                        "movementX": 0,
+                        "movementY": 0,
+                        "offsetX": 59,
+                        "offsetY": 7,
+                        "pageX": 695,
+                        "pageY": 1703,
+                        "returnValue": true,
+                        "screenX": 697,
+                        "screenY": 608,
+                        "shiftKey": false,
+                        "timeStamp": 19462,
+                        "x": 695,
+                        "y": 603
+                    },
+                    "element": {
+                        "attributes": {
+                            "aria-describedby": "i51 i52",
+                            "aria-disabled": "false",
+                            "aria-labelledby": "i50",
+                            "autocomplete": "off",
+                            "class": "whsOnd zHQkBf",
+                            "data-initial-dir": "auto",
+                            "data-initial-value": "",
+                            "data-webtasks-id": "6dc52857-4d1b-499b",
+                            "dir": "auto",
+                            "jsname": "YPqjbf",
+                            "required": "",
+                            "tabindex": "0",
+                            "type": "text"
+                        },
+                        "bbox": {
+                            "bottom": 620.1875,
+                            "height": 24,
+                            "left": 636,
+                            "right": 931,
+                            "top": 596.1875,
+                            "width": 295,
+                            "x": 636,
+                            "y": 596.1875
+                        },
+                        "innerHTML": "",
+                        "outerHTML": "<input type=\"text\" class=\"whsOnd zHQkBf\" jsname=\"YPqjbf\" autocomplete=\"off\" tabindex=\"0\" aria-labelledby=\"i50\" aria-describedby=\"i51 i52\" aria-disabled=\"false\" required=\"\" dir=\"auto\" data-initial-dir=\"auto\" data-initial-value=\"\" data-webtasks-id=\"6dc52857-4d1b-499b\">",
+                        "tagName": "INPUT",
+                        "textContent": "",
+                        "xpath": "id(\"mG61Hd\")/div[2]/div[1]/div[2]/div[7]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/input[1]"
+                    }
+                },
+                "event_id": 16,
+                "element_html": "<input aria-describedby=\"i51 i52\" aria-disabled=\"false\" aria-labelledby=\"i50\" autocomplete=\"off\" class=\"whsOnd zHQkBf\" data-initial-dir=\"auto\" data-initial-value=\"\" data-webtasks-id=\"6dc52857-4d1b-499b\" dir=\"auto\" jsname=\"YPqjbf\" required=\"\" tabindex=\"0\" type=\"text\"/>",
+                "screenshot_effect": null
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 35.95599985122681,
+            "state": {
+                "screenshot": "screenshot-16-0.png",
+                "page": "page-17-0.html"
+            },
+            "action": {
+                "intent": "textInput",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 650,
+                        "mouseY": 762,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927245554,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "composed": true,
+                        "detail": 0,
+                        "eventPhase": 2,
+                        "returnValue": true,
+                        "timeStamp": 32045
+                    },
+                    "element": {
+                        "attributes": {
+                            "aria-describedby": "i51 i52",
+                            "aria-disabled": "false",
+                            "aria-labelledby": "i50",
+                            "autocomplete": "off",
+                            "badinput": "false",
+                            "class": "whsOnd zHQkBf",
+                            "data-event-id": "17",
+                            "data-initial-dir": "auto",
+                            "data-initial-value": "9548565487",
+                            "data-webtasks-id": "6dc52857-4d1b-499b",
+                            "dir": "auto",
+                            "jsname": "YPqjbf",
+                            "listener": "true",
+                            "required": "",
+                            "tabindex": "0",
+                            "type": "text"
+                        },
+                        "bbox": {
+                            "bottom": 620.1875,
+                            "height": 24,
+                            "left": 636,
+                            "right": 931,
+                            "top": 596.1875,
+                            "width": 295,
+                            "x": 636,
+                            "y": 596.1875
+                        },
+                        "innerHTML": "",
+                        "outerHTML": "<input type=\"text\" class=\"whsOnd zHQkBf\" jsname=\"YPqjbf\" autocomplete=\"off\" tabindex=\"0\" aria-labelledby=\"i50\" aria-describedby=\"i51 i52\" aria-disabled=\"false\" required=\"\" dir=\"auto\" data-initial-dir=\"auto\" data-initial-value=\"9548565487\" data-webtasks-id=\"6dc52857-4d1b-499b\" badinput=\"false\" data-event-id=\"17\" listener=\"true\">",
+                        "tagName": "INPUT",
+                        "textContent": "",
+                        "xpath": "id(\"mG61Hd\")/div[2]/div[1]/div[2]/div[7]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/input[1]"
+                    },
+                    "text": "9548565487"
+                },
+                "event_id": 17,
+                "element_html": "<input aria-describedby=\"i51 i52\" aria-disabled=\"false\" aria-labelledby=\"i50\" autocomplete=\"off\" class=\"whsOnd zHQkBf\" data-initial-dir=\"auto\" data-initial-value=\"\" data-webtasks-id=\"6dc52857-4d1b-499b\" dir=\"auto\" jsname=\"YPqjbf\" required=\"\" tabindex=\"0\" type=\"text\"/>",
+                "screenshot_effect": null
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 35.96199989318848,
+            "state": {
+                "screenshot": "screenshot-18-0.png",
+                "page": "page-18-0.html"
+            },
+            "action": {
+                "intent": "click",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 650,
+                        "mouseY": 762,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927245560,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "altKey": false,
+                        "button": 0,
+                        "buttons": 1,
+                        "clientX": 650,
+                        "clientY": 762,
+                        "composed": true,
+                        "ctrlKey": false,
+                        "detail": 1,
+                        "eventPhase": 0,
+                        "layerX": 14,
+                        "layerY": 15,
+                        "metaKey": false,
+                        "movementX": 0,
+                        "movementY": 0,
+                        "offsetX": 14,
+                        "offsetY": 16,
+                        "pageX": 650,
+                        "pageY": 1862,
+                        "returnValue": true,
+                        "screenX": 652,
+                        "screenY": 767,
+                        "shiftKey": false,
+                        "timeStamp": 32041,
+                        "x": 650,
+                        "y": 762
+                    },
+                    "element": {
+                        "attributes": {
+                            "aria-describedby": "i55 i56",
+                            "aria-disabled": "false",
+                            "aria-labelledby": "i54",
+                            "autocomplete": "off",
+                            "class": "whsOnd zHQkBf",
+                            "data-initial-dir": "auto",
+                            "data-initial-value": "",
+                            "data-webtasks-id": "1e2b4909-6ce0-481b",
+                            "dir": "auto",
+                            "jsname": "YPqjbf",
+                            "required": "",
+                            "tabindex": "0",
+                            "type": "email"
+                        },
+                        "bbox": {
+                            "bottom": 770.1875,
+                            "height": 24,
+                            "left": 636,
+                            "right": 931,
+                            "top": 746.1875,
+                            "width": 295,
+                            "x": 636,
+                            "y": 746.1875
+                        },
+                        "innerHTML": "",
+                        "outerHTML": "<input type=\"email\" class=\"whsOnd zHQkBf\" jsname=\"YPqjbf\" autocomplete=\"off\" tabindex=\"0\" aria-labelledby=\"i54\" aria-describedby=\"i55 i56\" aria-disabled=\"false\" required=\"\" dir=\"auto\" data-initial-dir=\"auto\" data-initial-value=\"\" data-webtasks-id=\"1e2b4909-6ce0-481b\">",
+                        "tagName": "INPUT",
+                        "textContent": "",
+                        "xpath": "id(\"mG61Hd\")/div[2]/div[1]/div[2]/div[8]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/input[1]"
+                    }
+                },
+                "event_id": 18,
+                "element_html": "<input aria-describedby=\"i55 i56\" aria-disabled=\"false\" aria-labelledby=\"i54\" autocomplete=\"off\" class=\"whsOnd zHQkBf\" data-initial-dir=\"auto\" data-initial-value=\"\" data-webtasks-id=\"1e2b4909-6ce0-481b\" dir=\"auto\" jsname=\"YPqjbf\" required=\"\" tabindex=\"0\" type=\"email\"/>",
+                "screenshot_effect": null
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 43.31599998474121,
+            "state": {
+                "screenshot": "screenshot-18-0.png",
+                "page": "page-19-0.html"
+            },
+            "action": {
+                "intent": "textInput",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 651,
+                        "mouseY": 724,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927252914,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "composed": true,
+                        "detail": 0,
+                        "eventPhase": 2,
+                        "returnValue": true,
+                        "timeStamp": 39401
+                    },
+                    "element": {
+                        "attributes": {
+                            "aria-describedby": "i55 i56",
+                            "aria-disabled": "false",
+                            "aria-labelledby": "i54",
+                            "autocomplete": "off",
+                            "badinput": "false",
+                            "class": "whsOnd zHQkBf",
+                            "data-event-id": "19",
+                            "data-initial-dir": "auto",
+                            "data-initial-value": "kavan@gmail.com",
+                            "data-webtasks-id": "1e2b4909-6ce0-481b",
+                            "dir": "auto",
+                            "jsname": "YPqjbf",
+                            "listener": "true",
+                            "required": "",
+                            "tabindex": "0",
+                            "type": "email"
+                        },
+                        "bbox": {
+                            "bottom": 604.1875,
+                            "height": 24,
+                            "left": 636,
+                            "right": 931,
+                            "top": 580.1875,
+                            "width": 295,
+                            "x": 636,
+                            "y": 580.1875
+                        },
+                        "innerHTML": "",
+                        "outerHTML": "<input type=\"email\" class=\"whsOnd zHQkBf\" jsname=\"YPqjbf\" autocomplete=\"off\" tabindex=\"0\" aria-labelledby=\"i54\" aria-describedby=\"i55 i56\" aria-disabled=\"false\" required=\"\" dir=\"auto\" data-initial-dir=\"auto\" data-initial-value=\"kavan@gmail.com\" data-webtasks-id=\"1e2b4909-6ce0-481b\" badinput=\"false\" data-event-id=\"19\" listener=\"true\">",
+                        "tagName": "INPUT",
+                        "textContent": "",
+                        "xpath": "id(\"mG61Hd\")/div[2]/div[1]/div[2]/div[8]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/input[1]"
+                    },
+                    "text": "kavan@gmail.com"
+                },
+                "event_id": 19,
+                "element_html": "<input aria-describedby=\"i55 i56\" aria-disabled=\"false\" aria-labelledby=\"i54\" autocomplete=\"off\" class=\"whsOnd zHQkBf\" data-initial-dir=\"auto\" data-initial-value=\"\" data-webtasks-id=\"1e2b4909-6ce0-481b\" dir=\"auto\" jsname=\"YPqjbf\" required=\"\" tabindex=\"0\" type=\"email\"/>",
+                "screenshot_effect": null
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 43.3289999961853,
+            "state": {
+                "screenshot": "screenshot-20-0.png",
+                "page": "page-20-0.html"
+            },
+            "action": {
+                "intent": "click",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 651,
+                        "mouseY": 724,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927252927,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "altKey": false,
+                        "button": 0,
+                        "buttons": 1,
+                        "clientX": 651,
+                        "clientY": 724,
+                        "composed": true,
+                        "ctrlKey": false,
+                        "detail": 1,
+                        "eventPhase": 0,
+                        "layerX": 13,
+                        "layerY": -3,
+                        "metaKey": false,
+                        "movementX": 0,
+                        "movementY": 0,
+                        "offsetX": 5,
+                        "offsetY": -10,
+                        "pageX": 651,
+                        "pageY": 1990,
+                        "returnValue": false,
+                        "screenX": 653,
+                        "screenY": 729,
+                        "shiftKey": false,
+                        "timeStamp": 39400,
+                        "x": 651,
+                        "y": 724
+                    },
+                    "element": {
+                        "attributes": {
+                            "class": "uHMk6b fsHoPb",
+                            "data-webtasks-id": "5f2b414c-46ad-4931"
+                        },
+                        "bbox": {
+                            "bottom": 742.1875,
+                            "height": 16,
+                            "left": 638,
+                            "right": 654,
+                            "top": 726.1875,
+                            "width": 16,
+                            "x": 638,
+                            "y": 726.1875
+                        },
+                        "innerHTML": "",
+                        "outerHTML": "<div class=\"uHMk6b fsHoPb\" data-webtasks-id=\"5f2b414c-46ad-4931\"></div>",
+                        "tagName": "DIV",
+                        "textContent": "",
+                        "xpath": "id(\"i63\")/div[2]"
+                    }
+                },
+                "event_id": 20,
+                "element_html": "<div class=\"uHMk6b fsHoPb\" data-webtasks-id=\"5f2b414c-46ad-4931\"></div>",
+                "screenshot_effect": null
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 44.20199990272522,
+            "state": {
+                "screenshot": "screenshot-21-0.png",
+                "page": "page-21-0.html"
+            },
+            "action": {
+                "intent": "click",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 643,
+                        "mouseY": 763,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927253800,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "altKey": false,
+                        "button": 0,
+                        "buttons": 1,
+                        "clientX": 643,
+                        "clientY": 763,
+                        "composed": true,
+                        "ctrlKey": false,
+                        "detail": 1,
+                        "eventPhase": 0,
+                        "layerX": 5,
+                        "layerY": 0,
+                        "metaKey": false,
+                        "movementX": 0,
+                        "movementY": 0,
+                        "offsetX": -3,
+                        "offsetY": -7,
+                        "pageX": 643,
+                        "pageY": 2029,
+                        "returnValue": false,
+                        "screenX": 645,
+                        "screenY": 768,
+                        "shiftKey": false,
+                        "timeStamp": 40285,
+                        "x": 643,
+                        "y": 763
+                    },
+                    "element": {
+                        "attributes": {
+                            "class": "uHMk6b fsHoPb",
+                            "data-webtasks-id": "94794ee2-300d-4167"
+                        },
+                        "bbox": {
+                            "bottom": 778.1875,
+                            "height": 16,
+                            "left": 638,
+                            "right": 654,
+                            "top": 762.1875,
+                            "width": 16,
+                            "x": 638,
+                            "y": 762.1875
+                        },
+                        "innerHTML": "",
+                        "outerHTML": "<div class=\"uHMk6b fsHoPb\" data-webtasks-id=\"94794ee2-300d-4167\"></div>",
+                        "tagName": "DIV",
+                        "textContent": "",
+                        "xpath": "id(\"i66\")/div[2]"
+                    }
+                },
+                "event_id": 21,
+                "element_html": "<div class=\"uHMk6b fsHoPb\" data-webtasks-id=\"94794ee2-300d-4167\"></div>",
+                "screenshot_effect": null
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 45.223999977111816,
+            "state": {
+                "screenshot": "screenshot-22-0.png",
+                "page": "page-22-0.html"
+            },
+            "action": {
+                "intent": "click",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 672,
+                        "mouseY": 843,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927254822,
+                        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/viewform",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "altKey": false,
+                        "button": 0,
+                        "buttons": 1,
+                        "clientX": 672,
+                        "clientY": 843,
+                        "composed": true,
+                        "ctrlKey": false,
+                        "detail": 1,
+                        "eventPhase": 0,
+                        "layerX": 61,
+                        "layerY": 17,
+                        "metaKey": false,
+                        "movementX": 0,
+                        "movementY": 0,
+                        "offsetX": 37,
+                        "offsetY": 18,
+                        "pageX": 672,
+                        "pageY": 2109,
+                        "returnValue": false,
+                        "screenX": 674,
+                        "screenY": 848,
+                        "shiftKey": false,
+                        "timeStamp": 41306,
+                        "x": 672,
+                        "y": 843
+                    },
+                    "element": {
+                        "attributes": {
+                            "class": "NPEfkd RveJvd snByac",
+                            "data-webtasks-id": "7e8032cf-a1dc-4881"
+                        },
+                        "bbox": {
+                            "bottom": 861.1875,
+                            "height": 36,
+                            "left": 635,
+                            "right": 682.40625,
+                            "top": 825.1875,
+                            "width": 47.40625,
+                            "x": 635,
+                            "y": 825.1875
+                        },
+                        "innerHTML": "Submit",
+                        "outerHTML": "<span class=\"NPEfkd RveJvd snByac\" data-webtasks-id=\"7e8032cf-a1dc-4881\">Submit</span>",
+                        "tagName": "SPAN",
+                        "textContent": "Submit",
+                        "xpath": "id(\"mG61Hd\")/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/span[1]/span[1]"
+                    }
+                },
+                "event_id": 22,
+                "element_html": "<span class=\"NPEfkd RveJvd snByac\" data-webtasks-id=\"7e8032cf-a1dc-4881\">Submit</span>",
+                "screenshot_effect": null
+            }
+        },
+        {
+            "type": "browser",
+            "timestamp": 46.43499994277954,
+            "state": {
+                "screenshot": "screenshot-22-1.png",
+                "page": "page-22-1.html"
+            },
+            "action": {
+                "intent": "load",
+                "arguments": {
+                    "metadata": {
+                        "mouseX": 0,
+                        "mouseY": 0,
+                        "tabId": 1936197534,
+                        "timestamp": 1724927256033,
+                        "url": "https://docs.google.com/forms/u/0/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/formResponse",
+                        "viewportHeight": 1003,
+                        "viewportWidth": 1879,
+                        "zoomLevel": 1
+                    },
+                    "properties": {
+                        "documentId": "203562CE1146685F90031299CF4A1DC3",
+                        "documentLifecycle": "active",
+                        "frameId": 0,
+                        "frameType": "outermost_frame",
+                        "parentFrameId": -1,
+                        "processId": 214,
+                        "tabId": 1936197534,
+                        "timeStamp": 1724927255992.513,
+                        "transitionQualifiers": [],
+                        "transitionType": "form_submit",
+                        "url": "https://docs.google.com/forms/u/0/d/e/1FAIpQLSd9gli7KqnYFNkrc_PWNxvmhi7ZJz2jPp0qTsceqT7lkIBo2Q/formResponse"
+                    }
+                },
+                "event_id": 23,
+                "element_html": null,
+                "screenshot_effect": "screenshot-23-1.png"
+            }
+        }
+    ],
+    "created": 1724927351.088177
+}
