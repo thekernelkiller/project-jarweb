@@ -33,10 +33,9 @@ class WebAutomationSpecialist(Agent):
             "automation tasks with a high degree of reliability." 
         )
         self.tools = [ 
-            qa, # The RAG tool for querying the Chroma database
-            CodeInterpreterTool(),  # The Selenium code interpreter
+            qa,
+            CodeInterpreterTool(),
             SeleniumScrapingTool(),
-            # We need to add the TaskCompletionTool here
             TaskCompletionTool() 
         ]
         self.verbose = True 
@@ -44,18 +43,14 @@ class WebAutomationSpecialist(Agent):
 
     def execute(self, task: Task) -> Dict[str, Any]: 
         """Executes the web automation task using the LangGraph workflow."""
-        # 1. Create the LangGraph workflow instance
         workflow = WebAutomationWorkflow(
             selenium_code_interpreter=self.tools[1],
             selenium_scraping_tool=self.tools[2],
-            task_completion_tool=self.tools[3]  # Pass the TaskCompletionTool
+            task_completion_tool=self.tools[3]
         )
 
-        # 2. Extract the user prompt from the task
         user_prompt = task.description 
 
-        # 3. Execute the workflow
         final_state = workflow.run(user_prompt=user_prompt)
 
-        # 4. Return the final state
         return final_state 

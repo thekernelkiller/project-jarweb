@@ -14,10 +14,10 @@ class WebAutomationCrew(Crew):
     def __init__(self):
         super().__init__(
             agents=[WebAutomationSpecialist()],
-            tasks=[], # We'll add the task dynamically in main.py
-            process=Process.sequential, # We only have one agent for now
+            tasks=[],
+            process=Process.sequential,
             memory=True,
             verbose=True,
             planning=True,
-            planning_llm=ChatGroq(model="llama-3.1-8b-instant")  # Specify the planning LLM (optional)
+            planning_llm=ChatGroq(model="llama-3.1-8b-instant")
         )
