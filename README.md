@@ -3,16 +3,18 @@
 JarWeb is a web automation system built using CrewAI and LangGraph.  It takes a human-like prompt with your instructions and then dynamically figures out how to automate actions on any website. Think of it as your own personal Jarvis for the web!
 
 Read the detailed blog of my approach to this architecture [here](https://haberdashery.vivekirl.space/private/interface-labs-assignment).
+
 ### 1. Key Features
 
 - **Dynamic Reasoning:** JarWeb uses LLMs (large language models) to understand your instructions and the structure of the webpage, enabling it to adapt to various scenarios and websites.
 - **Context Grounding (RAG):** A robust RAG (Retrieval Augmented Generation) system ensures the agent has accurate and relevant information about the target website.
 - **Selenium Automation:**  JarWeb leverages Selenium to perform actions like clicking buttons, filling in forms, and extracting data. 
 - **Code Interpreter:** A secure code interpreter executes Selenium code, ensuring safe and reliable automation. 
-- **Human-in-the-Loop (Planned):**  JarWeb is designed for future integration of human oversight, allowing you to review and approve actions before execution or provide feedback to improve the agent's performance. 
+- **Human-in-the-Loop (Planned):**  JarWeb is designed for future integration of human oversight, allowing you to review and approve actions before execution or provide feedback to improve the agent's performance.
+  
 ### 2. Architecture
 
-![[Screenshot 2024-09-05 at 12.40.00.png]]
+<img width="949" alt="Screenshot 2024-09-05 at 12 40 00" src="https://github.com/user-attachments/assets/cdac58ac-91d4-485b-b3a5-127099e5fbae">
 
 ### 3. How to run
 
