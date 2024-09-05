@@ -2,7 +2,7 @@
 
 JarWeb is a web automation system built using CrewAI and LangGraph.  It takes a human-like prompt with your instructions and then dynamically figures out how to automate actions on any website. Think of it as your own personal Jarvis for the web!
 
-Read the detailed blog of my approach to this architecture [here](https://haberdashery.vivekirl.space/private/interface-labs-assignment).
+Read the detailed blog of my approach to this project [here](https://haberdashery.vivekirl.space/private/interface-labs-assignment).
 
 ### 1. Key Features
 
