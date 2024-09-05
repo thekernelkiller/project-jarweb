@@ -4,6 +4,8 @@ JarWeb is a web automation system built using CrewAI and LangGraph.  It takes a 
 
 Read the detailed blog of my approach to this project [here](https://haberdashery.vivekirl.space/private/interface-labs-assignment).
 
+> Note: This project is still in WIP, I spent a lot of time on designing the solution than the implementation. I will complete this project very soon. Regardless, I'm ready for feedback and discussions!
+
 ### 1. Key Features
 
 - **Dynamic Reasoning:** JarWeb uses LLMs (large language models) to understand your instructions and the structure of the webpage, enabling it to adapt to various scenarios and websites.
