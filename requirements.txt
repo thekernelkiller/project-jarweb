@@ -1,0 +1,4 @@
+langchain_core
+langgraph
+langchain_groq
+crewai
